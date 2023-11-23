@@ -2,7 +2,7 @@ name: scan
 on:
   push:
     branches:
-     - master
+     - main
 jobs:
   scan:
     runs-on: ubuntu-latest
