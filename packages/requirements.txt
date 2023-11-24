@@ -1,9 +1,10 @@
+django==1.2
 certifi==2022.12.7
 charset-normalizer==2.0.12
 colorama==0.4.5
 idna==3.4
 pkg-resources==0.0.0
-requests==2.27.1
+requests==2.31.0
 tabulate==0.8.10
 urllib3==1.26.15
 Jinja2==3.0.1
